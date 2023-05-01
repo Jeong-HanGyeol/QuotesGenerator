@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=명언생성기&fontSize=90" />
 </div>
 
-<br>
-
 <div align=center>
   <h3>🧐 배운것들 🧐</h3>
   <div>
