@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=명언생성기&fontSize=90" />
 </div>
 
-<div align=center>
-  <img src="" />
-</div>
-
 <br>
 
 <div align=center>
@@ -52,4 +48,11 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+</div>
+
+<br>
+
+<div align=center>
+<h3>📱 App View 📱</h3>
+  <img src="https://github.com/Jeong-HanGyeol/QuotesGenerator/blob/main/%E1%84%80%E1%85%B3%E1%84%85%E1%85%AE%E1%86%B8%201.png" />
 </div>
